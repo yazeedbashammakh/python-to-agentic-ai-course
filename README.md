@@ -1,4 +1,4 @@
-# 🚀 Python to Agentic AI Engineering
+# 🚀 Python to Agentic AI Engineering Course (GCP Stack)
 
 ### From Beginner to Production-Ready AI Agents using Google's AI Stack
 
