@@ -12,4 +12,5 @@ Below are the URLs for each recorded sessions. If you are not able to access the
 ## 3rd Sessions (Python String): 
 - [click here](https://drive.google.com/file/d/1uWhFsqerhuMhaMnbWjxGYM6TovLLswSG/view?usp=sharing)
 
-
+## 4th Sessions (Python Boolean and Lists): 
+- [click here](https://drive.google.com/file/d/13lbZ8bd4RDZ8HjW-2Na1Vh-DUST144SR/view?usp=sharing)
