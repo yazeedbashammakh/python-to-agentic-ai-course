@@ -14,3 +14,8 @@ Below are the URLs for each recorded sessions. If you are not able to access the
 
 ## 4th Sessions (Python Boolean and Lists): 
 - [click here](https://drive.google.com/file/d/13lbZ8bd4RDZ8HjW-2Na1Vh-DUST144SR/view?usp=sharing)
+
+
+## 5th Sessions (Python Dictionary and Conditional Logic): 
+- [click here](https://drive.google.com/file/d/1O8jAVGMtg_IT08PDhG1Ovw3ip552YVXB/view?usp=sharing)
+
