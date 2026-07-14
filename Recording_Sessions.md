@@ -19,3 +19,6 @@ Below are the URLs for each recorded sessions. If you are not able to access the
 ## 5th Sessions (Python Dictionary and Conditional Logic): 
 - [click here](https://drive.google.com/file/d/1O8jAVGMtg_IT08PDhG1Ovw3ip552YVXB/view?usp=sharing)
 
+## 6th Sessions (Python Loops): 
+- [click here](https://drive.google.com/file/d/1gjT0DYVElrDS4Tibl2SEYpGGsh8jZmyW/view?usp=sharing)
+
