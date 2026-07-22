@@ -29,3 +29,7 @@ Below are the URLs for each recorded sessions. If you are not able to access the
 
 ## 7th Session (Python List Comprehensions and Functions): 
 - [click here](https://drive.google.com/file/d/15E8Xfdz5bqOvU7PeZMZs7p0z_PYdxMOt/view?usp=sharing)
+
+## 8th Session (Local Python and VS Code Setup): 
+- [click here](https://drive.google.com/file/d/1-hfn3tfLvJijDs6pG6wjsIlHtphzqKzd/view?usp=sharing)
+
