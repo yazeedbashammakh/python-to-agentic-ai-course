@@ -33,3 +33,7 @@ Below are the URLs for each recorded sessions. If you are not able to access the
 ## 8th Session (Local Python and VS Code Setup): 
 - [click here](https://drive.google.com/file/d/1-hfn3tfLvJijDs6pG6wjsIlHtphzqKzd/view?usp=sharing)
 
+## 9th Session (Variable Scope and Exception Handling): 
+- Not Available
+
+
