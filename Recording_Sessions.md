@@ -36,4 +36,8 @@ Below are the URLs for each recorded sessions. If you are not able to access the
 ## 9th Session (Variable Scope and Exception Handling): 
 - Not Available
 
+## 10th Session (Python OOps Fundamentals): 
+- [click here](https://drive.google.com/file/d/1PzonbuaM4qCy2WEpUoZXFKCyAzXRmUC8/view?usp=sharing)
+
+
 
