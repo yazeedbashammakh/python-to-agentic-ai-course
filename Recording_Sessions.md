@@ -44,3 +44,6 @@ Below are the URLs for each recorded sessions. If you are not able to access the
 - [click here](https://drive.google.com/file/d/1H6Mo-PuFiz4nJ1kmfEQlFfGH8vQMdQcy/view?usp=sharing)
 
 
+## 12th Session (Python Packages):
+- [click here](https://drive.google.com/file/d/1KKDBRTCGBO1uarbT1-HkianbkaG5_tEd/view?usp=sharing)
+
