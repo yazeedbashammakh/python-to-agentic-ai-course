@@ -1,0 +1,50 @@
+[
+    {
+        "book_id": 101,
+        "title": "Python Programming",
+        "author": "John Smith",
+        "category": "Programming",
+        "price": 599.0,
+        "quantity": 12
+    },
+    {
+        "book_id": 102,
+        "title": "Data Structures",
+        "author": "Alice Johnson",
+        "category": "Computer Science",
+        "price": 799.0,
+        "quantity": 8
+    },
+    {
+        "book_id": 103,
+        "title": "Machine Learning Basics",
+        "author": "Andrew Clark",
+        "category": "Artificial Intelligence",
+        "price": 999.0,
+        "quantity": 15
+    },
+    {
+        "book_id": 104,
+        "title": "Clean Code",
+        "author": "Robert Martin",
+        "category": "Software Engineering",
+        "price": 899.0,
+        "quantity": 4
+    },
+    {
+        "book_id": 105,
+        "title": "Database Systems",
+        "author": "Michael Brown",
+        "category": "Database",
+        "price": 749.0,
+        "quantity": 6
+    },
+    {
+        "book_id": 106,
+        "title": "Operating Systems",
+        "author": "David Green",
+        "category": "Computer Science",
+        "price": 849.0,
+        "quantity": 2
+    }
+]
