@@ -1,0 +1,77 @@
+AI: hard code logic
+Machine Learning: Data Science
+
+2) Input Data --> Required Output
+DS Team --> Models (internals). 
+Training a model. 
+X --> Input (maths matric)
+Y --> Output
+Y = f(X). --> f function is very complex.
+Model propose: 
+
+Y = m*X + c    --> Proposed model structure.
+m , c --> not defined yet. Training the model. 
+model parameters. Find out the values of these parameters (Training). 
+m =1 , c = 0 
+Y(0,0) = 1 * X + 0 = Y(0,0) --> Y (actual) 
+error = Y(0,0) - Y(actual)  --> Error 
+
+Find m and c such that it minimizes this error. This is called training model. 
+
+Y = m*X**(2) + n * X + c    --> Quadratic equation. 
+
+
+Gen AI: ChatGPT started GenAI. But what was before?
+These models are able to generate new text, images, audios, videos. 
+
+Text (NLP): Natural Language Processing. 
+Classify the text. Product reviews --> Good review, bad review.
+
+Context:
+- The bank of the river was overflowing, so I went to the bank to withdraw money. 
+- bat  --> cricket bat, bat bird.
+- The animal didn’t cross the street because it was hungry.
+- The animal didn’t cross the street because it was too wide 
+Word meaning/ Context --> Querying ourself. And answering from near about words. 
+
+Attention is all you need --> Research paper. 
+1. Attention mechanism  --> We raise queries. 
+2. Transformer Architecture --> Bottleneck. (They process entire input data in parallel).
+
+
+They need data: 
+- Huge data --> Entire internet Text as input for training.
+- Pre-training: --> Output. Foundation model/base model. 
+    - They try to predict the next word. 
+    - If I ask a question, it will give me more questions. 
+- Fine Tuning: Chat based data as input. Input questions then try to give the answer. 
+
+- How do they process text? 
+Embedding --> Text gets converted into mathematical vectors. 
+It --> 01
+is --> 510
+go --> 51 
+ing --> 154
+going --> 51, 154
+coming --> 43, 154
+eat --> 98
+eating --> 98, 154
+
+Tokenization: 
+words /sub-word --> Token 
+
+Embedding model --> Token --> embedding (Maths vector) 
+Token properties: 50 property : [gender, age, royal, color, size]
+King: [1, 4, 1, 0, 3.0] 
+Queen: [0, 4, 1, 0, 3.0]
+Male: [1, 0, 0,0,0]
+Female: [0, 0,0,0,0]
+
+King - Male = Queen
+
+Embedding Model (AI model) --> Which properties (I dont decide). 
+
+AI Models: LLM 
+Large Language Models --> Huge (Number of parameters (4 B)) 
+Small Language Models --> 
+Multi-modal AI models  ---> Able to process image, audio, video along with text.
