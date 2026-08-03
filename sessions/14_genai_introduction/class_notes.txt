@@ -75,3 +75,6 @@ AI Models: LLM
 Large Language Models --> Huge (Number of parameters (4 B)) 
 Small Language Models --> 
 Multi-modal AI models  ---> Able to process image, audio, video along with text.
+
+- Tiktoken: https://platform.openai.com/tokenizer
+
