@@ -50,4 +50,6 @@ Below are the URLs for each recorded sessions. If you are not able to access the
 ## 13th Session (Python Project):
 - [click here](https://drive.google.com/file/d/1fP_tSBBErSGHNnWpsfQXsGbIk3lwbXdY/view?usp=sharing)
 
-  
+## 14th Session (Gen AI Introduction + LLM + Embeddings):
+- [click here](https://drive.google.com/file/d/1TxuSAmgwNF6WkW6DL-7JQyHlISdwkZ1O/view?usp=sharing)
+
