@@ -56,5 +56,5 @@ Below are the URLs for each recorded sessions. If you are not able to access the
 ## 15th Session (Google AI Studio and Prompt Eng):
 - [click here](https://drive.google.com/file/d/1gXU_mx98x9Bq1_sDr_aOPZl4zl7zXdyt/view?usp=sharing)
 
-## 15th Session (Agentic IA Introduction):
+## 16th Session (Agentic IA Introduction):
 - [click here](https://drive.google.com/file/d/1ZaaLn_bE-GCj8PnhrPCiD2w-WVOZkQ1-/view?usp=sharing)
