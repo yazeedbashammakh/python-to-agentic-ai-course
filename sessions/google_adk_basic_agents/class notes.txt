@@ -1,0 +1,65 @@
+
+RAG:
+ - PDF files/ files/ database
+
+1. Chunking Strategy: 
+    - 1 pdf file: 1000 pages. 100 chunks[ 1 chunk contains 10 pages]
+    - Overlap: 
+2. Embeddings:
+    - Tokens, embeddings. vectors
+3. Vector DB: Optimized for vector (To find similar vectors, search similar vectors)
+    - Data store
+    - Chroma DB, FAISS, Vectex AI Vector Search. 
+    - Index: similar to tables 
+4. Incermental loads:
+    - Changes in files/data should reflect in vector DB.
+
+
+RAG Application Flow:
+1. User Input: query
+2. Embeddings: Query Embeddings. 
+3. Find similar chunks: 
+    - Feature of vector DB.
+    - Cosine Similarity.
+4. Build Prompt/Context:
+    - User query.
+    - Context: Chunk1 + Chunk2 + Chunk3
+    - Persona: 
+    - Constraints.
+5. Response from LLM 
+
+
+Evaluation: 
+    - Better?
+    - Accuracy:
+
+Golden Dataset:
+    - Prepare 10-20, 100 Question and ideal answers, ideal chunks. 
+    - Questions, actual answer.
+
+    - Evaluation: 
+        - KPIS:
+        - LLM base evaluations. 
+
+
+APIs: https://github.com/public-apis/public-apis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
